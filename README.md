@@ -1,4 +1,4 @@
-# LogInApp (MVC, UIKit)
+# LogInForm (MVC, UIKit)
 
 The user authentication app made with UIKit.
 
